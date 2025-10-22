@@ -33,15 +33,10 @@ I am **Baidar Samir**, an AI & Data Science student. I specialize in **Artificia
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="48" height="48"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="48" height="48"/> </a>
 
-## 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=baidarsamir&show_icons=true&locale=en" alt="baidarsamir" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baidarsamir&show_icons=true&locale=en&layout=compact" alt="baidarsamir" /></p>
 
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/baidar-samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baidar samir" height="30" width="40" /></a>
-<a href="https://kaggle.com/baidar-samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baidar samir" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/baidar-samir](https://www.linkedin.com/in/baidar-samir-649804314/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baidar samir" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/baidarsamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baidar samir" height="30" width="40" /></a>
 </p>
