@@ -44,11 +44,12 @@
 
 ## 🌟 Selected Projects
 
-- [medical-llm](https://github.com/BaidarSamir/medical-llm) — Experiments and tooling around LLMs for the medical domain
-- [Three-AI-based-Minimax-games-in-Python](https://github.com/BaidarSamir/Three-AI-based-Minimax-games-in-Python) — Classic games solved with Minimax-based agents
-- [MiniProjet_NLP](https://github.com/BaidarSamir/MiniProjet_NLP) — NLP mini-project and experiments
-- [creeeasy/autism_gesture](https://github.com/creeeasy/autism_gesture) — Collaboration: gesture recognition with AI
-- [StockXpert/StockXpert](https://github.com/StockXpert/StockXpert) — Collaboration: Magasin ESI-SBA
+- [SatelliteVision AI — Few‑Shot Remote Sensing Classification](https://github.com/BaidarSamir/Projet-2CS)
+- [Medical Symptom Analyzer — Local RAG + Ollama](https://github.com/BaidarSamir/medical-llm)
+- [Autism Screening App — AI Movement Detection + M‑CHAT/CARS‑2](https://github.com/BaidarSamir/autism_gesture)
+- [Minimax Game Suite — Othello, Pentago, Ultimate Tic‑Tac‑Toe](https://github.com/BaidarSamir/Three-AI-based-Minimax-games-in-Python)
+- [Urban Sound Scenes — Multiclass Audio Classification (ResNet18)](https://github.com/BaidarSamir/Sound-Classification--Project-DL)
+- [StockXpert — Inventory Management Platform (ESI‑SBA)](https://github.com/StockXpert/StockXpert)
 
 ---
 
