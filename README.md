@@ -2,7 +2,7 @@
 
 # Hi, I'm Baidar Samir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;LLMs%2C+Computer+Vision%2C+NLP;Always+learning+and+building" alt="Typing animation summarizing about me" />
+<b>Computer Vision • LLMs • Deep Learning</b>
 
 </div>
 
@@ -16,16 +16,33 @@
 
 ---
 
-## 🛠️ Skills
+## 🧠 AI Focus & Skills
 
-### Languages & Frameworks
-![Languages & Frameworks](https://skillicons.dev/icons?i=python,java,javascript,php,react)
-
-### AI & Data Science
-![AI & DS](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)
+### Core AI Stack
+![AI Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface,python,nvidia)
+<br/>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/> </a>
+
+#### LLM / RAG Toolkit
+<p>
+	<img src="https://img.shields.io/badge/Transformers-FFB000?logo=huggingface&logoColor=white" height="24" alt="Transformers"/>
+	<img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" height="24" alt="FastAPI"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="24" alt="PostgreSQL"/>
+	<img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" height="24" alt="pgvector"/>
+	<img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" height="24" alt="Ollama"/>
+	<img src="https://img.shields.io/badge/LangChain-0B806F?logo=chainlink&logoColor=white" height="24" alt="LangChain"/>
+  
+</p>
+
+#### Computer Vision Focus
+- Vision-Language Models (CLIP, BLIP‑2, Remote‑CLIP), ViT
+- TorchVision + OpenCV pipelines, augmentation, evaluation
+- Few‑shot learning for remote sensing and scene classification
+
+### Languages & Frameworks
+![Languages & Frameworks](https://skillicons.dev/icons?i=python,java,javascript,php,react)
 
 ### Web Dev
 ![Web](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express)
@@ -71,4 +88,8 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/baidar-samir-649804314/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 	<a href="https://www.kaggle.com/baidarsamir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+</p>
+
+<p>
+📧 Email: <a href="mailto:baidarsamir22@gmail.com">baidarsamir22@gmail.com</a>
 </p>
