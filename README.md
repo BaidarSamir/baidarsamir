@@ -32,7 +32,6 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="24" alt="PostgreSQL"/>
 	<img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" height="24" alt="pgvector"/>
 	<img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" height="24" alt="Ollama"/>
-	<img src="https://img.shields.io/badge/LangChain-0B806F?logo=chainlink&logoColor=white" height="24" alt="LangChain"/>
   
 </p>
 
@@ -40,12 +39,27 @@
 - Vision-Language Models (CLIP, BLIP‑2, Remote‑CLIP), ViT
 - TorchVision + OpenCV pipelines, augmentation, evaluation
 - Few‑shot learning for remote sensing and scene classification
+- Object detection & segmentation: YOLO (Ultralytics), Segment Anything (SAM), OpenMMLab (MMDetection)
+
+#### Featured Models & Techniques
+<p>
+	<img src="https://img.shields.io/badge/CLIP-111827?logoColor=white" height="22" alt="CLIP"/>
+	<img src="https://img.shields.io/badge/BLIP-2-0B7285?logoColor=white" height="22" alt="BLIP-2"/>
+  <img src="https://img.shields.io/badge/ViT-4C1D95?logoColor=white" height="22" alt="ViT"/>
+  <img src="https://img.shields.io/badge/ResNet18-0A0A0A?logoColor=white" height="22" alt="ResNet18"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="22" alt="Streamlit"/>
+	<img src="https://img.shields.io/badge/YOLO-000000?logo=ultralytics&logoColor=white" height="22" alt="YOLO"/>
+	<img src="https://img.shields.io/badge/SAM-0052CC?logoColor=white" height="22" alt="Segment Anything"/>
+	<img src="https://img.shields.io/badge/MMDetection-FF6A00?logo=openmmlab&logoColor=white" height="22" alt="MMDetection"/>
+	<img src="https://img.shields.io/badge/DINOv2-0EA5E9?logoColor=white" height="22" alt="DINOv2"/>
+	<img src="https://img.shields.io/badge/timm-2E7D32?logoColor=white" height="22" alt="timm"/>
+</p>
 
 ### Languages & Frameworks
 ![Languages & Frameworks](https://skillicons.dev/icons?i=python,java,javascript,php,react)
 
 ### Web Dev
-![Web](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express)
+![Web](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,flask)
 
 ### Databases
 ![DBs](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)
@@ -54,7 +68,7 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="48" height="48"/> </a>
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,gcp,firebase,figma)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,aws,firebase,figma)
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48"/> </a>
 
 ---
