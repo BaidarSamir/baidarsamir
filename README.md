@@ -2,7 +2,7 @@
 
 # Hi, I'm Baidar Samir 👋
 
-**Computer Vision • LLMs • Deep Learning**
+**AI • Data Science • Computer Vision • LLMs • NLP**
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-AI and Data Science student focused on **Computer Vision**, **Large Language Models**, and **NLP**. I enjoy building practical AI solutions and contributing to open-source projects.
+I am **Baidar Samir**, a final-year Computer Science Engineering student at the **Higher School of Computer Science, Sidi Bel Abbes (ESI-SBA)**. I specialize in **AI**, **Data Science**, and **Computer Vision**, with a focus on **Large Language Models** and **NLP**. I enjoy building practical AI solutions and contributing to open-source projects.
 
 ---
 
@@ -56,3 +56,5 @@ AI and Data Science student focused on **Computer Vision**, **Large Language Mod
 	<a href="https://www.kaggle.com/baidarsamir"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" height="28"/></a>
 	<a href="mailto:baidarsamir22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" height="28"/></a>
 </p>
+
+📧 **baidarsamir22@gmail.com** • **s.baidar@esi-sba.dz**
