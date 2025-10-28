@@ -37,7 +37,7 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 
 **[SatelliteVision AI](https://github.com/BaidarSamir/Projet-2CS)** — Few-shot remote sensing classification with CLIP & BLIP-2
 
-**[Medical Symptom Analyzer](https://github.com/BaidarSamir/medical-llm)** — Local RAG system using Ollama + pgvector
+**[Medical Symptom Analyzer](https://github.com/BaidarSamir/medical-llm)** — Local RAG system using Ollama + pgvector + Roberta
 
 **[Autism Screening App](https://github.com/BaidarSamir/autism_gesture)** — AI movement detection for early screening
 
