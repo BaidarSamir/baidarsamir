@@ -13,26 +13,26 @@
 I am **Baidar Samir**, a final-year Computer Science Engineering student at the **Higher School of Computer Science, Sidi Bel Abbes (ESI-SBA)**. I specialize in **AI**, **Data Science**, and **Computer Vision**, with a focus on **Large Language Models** and **NLP**. I enjoy building practical AI solutions and contributing to open-source projects.
 
 ---
-
-### Tech Stack
+## Tech Stack
 
 **AI & Deep Learning**  
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Python](https://skillicons.dev/icons?i=python) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://skillicons.dev/icons?i=sklearn)
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python) ![scikit-learn](https://skillicons.dev/icons?i=sklearn)[NumPy] !(https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 
 **Computer Vision Models**  
-![CLIP](https://img.shields.io/badge/CLIP-000?style=flat) ![BLIP2](https://img.shields.io/badge/BLIP--2-000?style=flat) ![ViT](https://img.shields.io/badge/ViT-000?style=flat) ![YOLO](https://img.shields.io/badge/YOLO-000?style=flat) ![SAM](https://img.shields.io/badge/SAM-000?style=flat)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat&logo=openai&logoColor=white) ![BLIP-2](https://img.shields.io/badge/BLIP--2-FF6F00?style=flat) ![ViT](https://img.shields.io/badge/ViT-EE4C2C?style=flat) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) ![SAM](https://img.shields.io/badge/SAM-0467DF?style=flat&logo=meta&logoColor=white)
 
 **LLMs & RAG**  
-![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **NLP & Knowledge Graphs**  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-orange?style=flat) ![Neo4j](https://skillicons.dev/icons?i=neo4j) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFA500?style=flat&logo=google&logoColor=white) ![Neo4j](https://skillicons.dev/icons?i=neo4j) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat&logo=huggingface&logoColor=white)
 
 **Web & Data**  
-![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flask](https://skillicons.dev/icons?i=flask) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Stack](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,mongodb)
 
 **Tools**  
-![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Figma](https://skillicons.dev/icons?i=figma)
+![Tools](https://skillicons.dev/icons?i=vscode,git,docker,aws,figma)
+
 
 
 ---
