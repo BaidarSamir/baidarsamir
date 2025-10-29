@@ -14,25 +14,26 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 **AI & Deep Learning**  
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Python](https://skillicons.dev/icons?i=python) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Python](https://skillicons.dev/icons?i=python) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://skillicons.dev/icons?i=sklearn)
 
 **Computer Vision Models**  
 ![CLIP](https://img.shields.io/badge/CLIP-000?style=flat) ![BLIP2](https://img.shields.io/badge/BLIP--2-000?style=flat) ![ViT](https://img.shields.io/badge/ViT-000?style=flat) ![YOLO](https://img.shields.io/badge/YOLO-000?style=flat) ![SAM](https://img.shields.io/badge/SAM-000?style=flat)
 
 **LLMs & RAG**  
-![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **NLP & Knowledge Graphs**  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-orange?style=flat) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-orange?style=flat) ![Neo4j](https://skillicons.dev/icons?i=neo4j) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat)
 
 **Web & Data**  
 ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flask](https://skillicons.dev/icons?i=flask) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 **Tools**  
 ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Figma](https://skillicons.dev/icons?i=figma)
+
 
 ---
 ## Projects
