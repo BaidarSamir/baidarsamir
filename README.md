@@ -17,13 +17,16 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 ## Tech Stack
 
 **AI & Deep Learning**  
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python)
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Computer Vision Models**  
 ![CV Models](https://img.shields.io/badge/CLIP-000?style=flat) ![BLIP2](https://img.shields.io/badge/BLIP--2-000?style=flat) ![ViT](https://img.shields.io/badge/ViT-000?style=flat) ![YOLO](https://img.shields.io/badge/YOLO-000?style=flat) ![SAM](https://img.shields.io/badge/SAM-000?style=flat)
 
 **LLMs & RAG**  
-![HF](https://img.shields.io/badge/🤗_Transformers-yellow?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat) ![pgvector](https://img.shields.io/badge/pgvector-blue?style=flat)
+![HF](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+
+**NLP & Knowledge Graphs**  
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-orange?style=flat) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat)
 
 **Web & Data**  
 ![Stack](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgresql,mongodb)
