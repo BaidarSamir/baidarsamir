@@ -43,6 +43,8 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 
 **[Autism Screening App](https://github.com/BaidarSamir/autism_gesture)** — AI movement detection for early screening
 
+**[Hybrid Knowledge Graph NLP System](https://github.com/BaidarSamir/wardrobegpt-kg)** — Neo4j knowledge graph with BERT/spaCy for NLP entity extraction 
+
 **[Minimax Game Suite](https://github.com/BaidarSamir/Three-AI-based-Minimax-games-in-Python)** — Othello, Pentago & Ultimate Tic-Tac-Toe with AI
 
 **[Urban Sound Classifier](https://github.com/BaidarSamir/Sound-Classification--Project-DL)** — ResNet18-based audio scene recognition
