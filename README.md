@@ -16,22 +16,48 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 ## Tech Stack
 
 **AI & Deep Learning**  
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python) ![scikit-learn](https://skillicons.dev/icons?i=sklearn) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40" />&nbsp;
 
 **Computer Vision Models**  
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat&logo=openai&logoColor=white) ![BLIP-2](https://img.shields.io/badge/BLIP--2-FF6F00?style=flat) ![ViT](https://img.shields.io/badge/ViT-EE4C2C?style=flat) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) ![SAM](https://img.shields.io/badge/SAM-0467DF?style=flat&logo=meta&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat&logo=openai&logoColor=white)
+![BLIP-2](https://img.shields.io/badge/BLIP--2-FF6F00?style=flat)
+![ViT](https://img.shields.io/badge/ViT-EE4C2C?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![SAM](https://img.shields.io/badge/SAM-0467DF?style=flat&logo=meta&logoColor=white)
 
 **LLMs & RAG**  
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Transformers" title="HuggingFace Transformers" width="40" height="40" />&nbsp;
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="pgvector" title="pgvector (PostgreSQL)" width="40" height="40" />&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **NLP & Knowledge Graphs**  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFA500?style=flat&logo=google&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFA500?style=flat&logo=google&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" title="Neo4j" width="40" height="40" />&nbsp;
+![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat&logo=huggingface&logoColor=white)
 
 **Web & Data**  
-![Stack](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,mongodb)
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;
 
 **Tools**  
-![Tools](https://skillicons.dev/icons?i=vscode,git,docker,aws,figma)
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />&nbsp;
+
 
 
 
