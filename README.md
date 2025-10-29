@@ -39,6 +39,8 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 
 **[Medical Symptom Analyzer](https://github.com/BaidarSamir/medical-llm)** — Local RAG system using Ollama + pgvector + Roberta
 
+**[Système de Diagnostic Vocal Intelligent](https://github.com/BaidarSamir/Intelligent-Voice-Diagnosis)** — Pipeline Deep Learning + NLP sur 4 961 cas avec reconnaissance vocale arabe - 85-90% de précisions.
+
 **[Autism Screening App](https://github.com/BaidarSamir/autism_gesture)** — AI movement detection for early screening
 
 **[Minimax Game Suite](https://github.com/BaidarSamir/Three-AI-based-Minimax-games-in-Python)** — Othello, Pentago & Ultimate Tic-Tac-Toe with AI
