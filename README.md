@@ -32,7 +32,7 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 ![SAM](https://img.shields.io/badge/SAM-0467DF?style=flat&logo=meta&logoColor=white)
 
 **LLMs & RAG**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Transformers" title="HuggingFace Transformers" width="40" height="40" />&nbsp;
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="pgvector" title="pgvector (PostgreSQL)" width="40" height="40" />&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
