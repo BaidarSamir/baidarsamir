@@ -25,7 +25,7 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **NLP & Knowledge Graphs**  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFA500?style=flat&logo=google&logoColor=white) ![Neo4j](https://skillicons.dev/icons?i=neo4j) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFA500?style=flat&logo=google&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![RoBERTa](https://img.shields.io/badge/RoBERTa-FF6F00?style=flat&logo=huggingface&logoColor=white)
 
 **Web & Data**  
 ![Stack](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,mongodb)
