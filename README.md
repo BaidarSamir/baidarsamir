@@ -64,29 +64,29 @@ I am **Baidar Samir**, an **AI & Data Science Engineer** specializing in **machi
 ---
 ## Projects
 
-**[fMRI Brain Disorder Classification: GNN + XAI](https://github.com/BaidarSamir/fMRI-Brain-Disorder-Classification-GNN-XAI)** — End-to-end ASD vs. control classification from resting-state fMRI using YOLO-based brain ROI detection, causal graphs, GATv2, focal loss, and Captum explainability. Achieves a cross-validation AUC of 0.7434.
+**[fMRI Brain Disorder Classification: GNN + XAI](https://github.com/BaidarSamir/fMRI-Brain-Disorder-Classification-GNN-XAI)** — Explainable brain disorder classification using fMRI, graph neural networks, and causal analysis.
 
-**[Deep Recommender System](https://github.com/BaidarSamir/social-events-recommender)** — Multi-objective Two-Tower retrieval system trained on 2.27M interactions, compared with an SVD baseline and accelerated with a FAISS approximate nearest-neighbor index.
+**[Deep Recommender System](https://github.com/BaidarSamir/social-events-recommender)** — Deep recommendation system using Two-Tower retrieval, SVD, and FAISS.
 
-**[Drug-Drug Interaction Prediction with GNNs](https://github.com/BaidarSamir/molnet-ddi-gnn)** — SEAL link prediction on the OGBL-DDI dataset, benchmarking GraphSAGE, DGCNN, GCN, and other graph neural network architectures for drug discovery.
+**[Drug-Drug Interaction Prediction with GNNs](https://github.com/BaidarSamir/molnet-ddi-gnn)** — Drug interaction prediction using graph neural networks and link prediction.
 
-**[Archival Rights Role Classifier](https://github.com/BaidarSamir/archival-rights-role-classifier)** — Legal NLP and explainable AI system classifying archival sentence roles with LegalBERT, BiLSTM, uncertainty review flags, PII pseudonymisation, and EAD3 finding aids.
+**[Archival Rights Role Classifier](https://github.com/BaidarSamir/archival-rights-role-classifier)** — Legal NLP classifier for identifying roles in archival documents with explainable AI.
 
-**[MLOps Fraud Detection Pipeline](https://github.com/BaidarSamir/fraud-detection-mlops)** — End-to-end fraud detection pipeline with MLflow tracking, model registry, SHAP analysis, automated evaluation reports, and a Random Forest ROC-AUC of 0.881.
+**[MLOps Fraud Detection Pipeline](https://github.com/BaidarSamir/fraud-detection-mlops)** — Production-oriented fraud detection pipeline with MLflow, SHAP, and model monitoring.
 
-**[EEG Multimodal Cognitive Load Detection](https://github.com/BaidarSamir/EEG-Multimodal-Cognitive-Load-Detection)** — Config-driven pipeline combining EEG, PPG, and GSR modalities across open datasets, with unimodal baselines and late-stage multimodal fusion.
+**[EEG Multimodal Cognitive Load Detection](https://github.com/BaidarSamir/EEG-Multimodal-Cognitive-Load-Detection)** — Multimodal cognitive-load detection using EEG, PPG, and GSR signals.
 
-**[Emotion Profiling & Suicide Risk Detection](https://github.com/BaidarSamir/Emotion-Profiling-and-Suicide-Risk-Detection)** — Dual-output DistilBERT model for multi-label emotion profiling and suicide-risk detection, optimized with structured pruning and INT8 quantization.
+**[Emotion Profiling & Suicide Risk Detection](https://github.com/BaidarSamir/Emotion-Profiling-and-Suicide-Risk-Detection)** — NLP system for emotion profiling and suicide-risk detection using DistilBERT.
 
-**[Community Detection Using GNNs](https://github.com/BaidarSamir/Community-Detection-Using-GNN-main)** — Benchmark of GCN, GraphSAGE, GAT, and GIN architectures for detecting developer communities, with structural graph analysis and comparison against classical machine learning baselines.
+**[Community Detection Using GNNs](https://github.com/BaidarSamir/Community-Detection-Using-GNN-main)** — Developer community detection using graph neural networks.
 
-**[Medical RAG & Local LLM Analyzer](https://github.com/BaidarSamir/medical-llm)** — Privacy-first medical assistant using PubMedBERT embeddings, PostgreSQL with pgvector, LangChain, FastAPI, and a local Ollama model for symptom analysis and department recommendation.
+**[Medical RAG & Local LLM Analyzer](https://github.com/BaidarSamir/medical-llm)** — Privacy-first medical assistant using RAG, pgvector, and a local LLM.
 
-**[SatelliteVision AI](https://github.com/BaidarSamir/Projet-2CS)** — Few-shot remote sensing classification with CLIP, BLIP-2, and Remote-CLIP across multiple satellite datasets, with a React and FastAPI interface.
+**[SatelliteVision AI](https://github.com/BaidarSamir/Projet-2CS)** — Few-shot satellite image classification using vision-language models.
 
-**[Autism Screening Mobile App](https://github.com/BaidarSamir/autism_gesture)** — Flutter application for early autism screening through movement detection in videos, using optical flow, ResNet-18, Bi-LSTM attention, and ensemble classification.
+**[Autism Screening Mobile App](https://github.com/BaidarSamir/autism_gesture)** — Mobile AI application for early autism screening through movement analysis.
 
-**[MedTalk - Voice Diagnosis System](https://github.com/BaidarSamir/Intelligent-Voice-Diagnosis)** — Multilingual disease prediction system from Arabic and English vocal symptoms, combining deep learning, NLP, speech recognition, and a conversational interface.
+**[MedTalk - Voice Diagnosis System](https://github.com/BaidarSamir/Intelligent-Voice-Diagnosis)** — Multilingual voice-based disease prediction using deep learning and NLP.
 
 ---
 
