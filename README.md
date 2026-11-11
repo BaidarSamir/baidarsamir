@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am **Baidar Samir**, a final-year Computer Science Engineering student at the **Higher School of Computer Science, Sidi Bel Abbes (ESI-SBA)**. I specialize in **AI**, **Data Science**, and **Computer Vision**, with a focus on **Large Language Models** and **NLP**. I enjoy building practical AI solutions and contributing to open-source projects.
+I am **Baidar Samir**, an **AI & Data Science Engineer** specializing in **machine learning**, **deep learning**, **computer vision**, **Large Language Models**, **NLP**, and **graph neural networks**. I enjoy building practical, research-driven AI solutions and contributing to open-source projects.
 
 ---
 ## Tech Stack
@@ -64,21 +64,29 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 ---
 ## Projects
 
-**[SatelliteVision AI](https://github.com/BaidarSamir/Projet-2CS)** — Few-shot remote sensing classification with CLIP & BLIP-2
+**[fMRI Brain Disorder Classification: GNN + XAI](https://github.com/BaidarSamir/fMRI-Brain-Disorder-Classification-GNN-XAI)** — End-to-end ASD vs. control classification from resting-state fMRI using YOLO-based brain ROI detection, causal graphs, GATv2, focal loss, and Captum explainability. Achieves a cross-validation AUC of 0.7434.
 
-**[Medical Symptom Analyzer](https://github.com/BaidarSamir/medical-llm)** — Local RAG system using Ollama + pgvector + Roberta
+**[Deep Recommender System](https://github.com/BaidarSamir/social-events-recommender)** — Multi-objective Two-Tower retrieval system trained on 2.27M interactions, compared with an SVD baseline and accelerated with a FAISS approximate nearest-neighbor index.
 
-**[Système de Diagnostic Vocal Intelligent](https://github.com/BaidarSamir/Intelligent-Voice-Diagnosis)** — Pipeline Deep Learning + NLP sur 4 961 cas avec reconnaissance vocale arabe - 85-90% de précisions.
+**[Drug-Drug Interaction Prediction with GNNs](https://github.com/BaidarSamir/molnet-ddi-gnn)** — SEAL link prediction on the OGBL-DDI dataset, benchmarking GraphSAGE, DGCNN, GCN, and other graph neural network architectures for drug discovery.
 
-**[Autism Screening App](https://github.com/BaidarSamir/autism_gesture)** — AI movement detection for early screening
+**[Archival Rights Role Classifier](https://github.com/BaidarSamir/archival-rights-role-classifier)** — Legal NLP and explainable AI system classifying archival sentence roles with LegalBERT, BiLSTM, uncertainty review flags, PII pseudonymisation, and EAD3 finding aids.
 
-**[Hybrid Knowledge Graph NLP System](https://github.com/BaidarSamir/wardrobegpt-kg)** — Neo4j knowledge graph with BERT/spaCy for NLP entity extraction 
+**[MLOps Fraud Detection Pipeline](https://github.com/BaidarSamir/fraud-detection-mlops)** — End-to-end fraud detection pipeline with MLflow tracking, model registry, SHAP analysis, automated evaluation reports, and a Random Forest ROC-AUC of 0.881.
 
-**[Minimax Game Suite](https://github.com/BaidarSamir/Three-AI-based-Minimax-games-in-Python)** — Othello, Pentago & Ultimate Tic-Tac-Toe with AI
+**[EEG Multimodal Cognitive Load Detection](https://github.com/BaidarSamir/EEG-Multimodal-Cognitive-Load-Detection)** — Config-driven pipeline combining EEG, PPG, and GSR modalities across open datasets, with unimodal baselines and late-stage multimodal fusion.
 
-**[Urban Sound Classifier](https://github.com/BaidarSamir/Sound-Classification--Project-DL)** — ResNet18-based audio scene recognition
+**[Emotion Profiling & Suicide Risk Detection](https://github.com/BaidarSamir/Emotion-Profiling-and-Suicide-Risk-Detection)** — Dual-output DistilBERT model for multi-label emotion profiling and suicide-risk detection, optimized with structured pruning and INT8 quantization.
 
-**[StockXpert](https://github.com/StockXpert/StockXpert)** — Inventory management platform (ESI-SBA)
+**[Community Detection Using GNNs](https://github.com/BaidarSamir/Community-Detection-Using-GNN-main)** — Benchmark of GCN, GraphSAGE, GAT, and GIN architectures for detecting developer communities, with structural graph analysis and comparison against classical machine learning baselines.
+
+**[Medical RAG & Local LLM Analyzer](https://github.com/BaidarSamir/medical-llm)** — Privacy-first medical assistant using PubMedBERT embeddings, PostgreSQL with pgvector, LangChain, FastAPI, and a local Ollama model for symptom analysis and department recommendation.
+
+**[SatelliteVision AI](https://github.com/BaidarSamir/Projet-2CS)** — Few-shot remote sensing classification with CLIP, BLIP-2, and Remote-CLIP across multiple satellite datasets, with a React and FastAPI interface.
+
+**[Autism Screening Mobile App](https://github.com/BaidarSamir/autism_gesture)** — Flutter application for early autism screening through movement detection in videos, using optical flow, ResNet-18, Bi-LSTM attention, and ensemble classification.
+
+**[MedTalk - Voice Diagnosis System](https://github.com/BaidarSamir/Intelligent-Voice-Diagnosis)** — Multilingual disease prediction system from Arabic and English vocal symptoms, combining deep learning, NLP, speech recognition, and a conversational interface.
 
 ---
 
@@ -87,7 +95,4 @@ I am **Baidar Samir**, a final-year Computer Science Engineering student at the 
 <p>
 	<a href="https://www.linkedin.com/in/baidar-samir-649804314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28"/></a>
 	<a href="https://www.kaggle.com/baidarsamir"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" height="28"/></a>
-	<a href="mailto:baidarsamir22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" height="28"/></a>
 </p>
-
-📧 **baidarsamir22@gmail.com** • **s.baidar@esi-sba.dz**
